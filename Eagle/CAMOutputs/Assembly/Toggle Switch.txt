@@ -1,0 +1,7 @@
+Partlist exported from C:/Users/Lasitha/Documents/EAGLE/projects/Toggle switch/Toggle Switch.sch at 2020-02-10 9:14 PM
+
+Qty Value               Device              Package      Parts                  Description                  POPULARITY
+1                       BC639-NPN-TO92-ECB  TO92-ECB     T1                     NPN Transistror              0         
+3                       R-US_0207/7         0207/7       R1, R2, R3             RESISTOR, American symbol              
+1   4017D               4017D               SO16         IC1                    COUNTER/DIVIDER              0         
+4   WIREPADSMD2,54-5,08 WIREPADSMD2,54-5,08 SMD2,54-5,08 PAD1, PAD2, PAD3, PAD4 Wire PAD connect wire on PCB 2         
